@@ -5,4 +5,4 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npedrohh&size_weight=0&count_weight=1&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npedrohh&size_weight=0&count_weight=1&layout=donut&theme=dark)
